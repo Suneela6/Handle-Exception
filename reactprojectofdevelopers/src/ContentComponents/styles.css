@@ -1,0 +1,22 @@
+.heading {
+  color: #007bff;
+}
+
+.sub-heading {
+  color: #007bff;
+  margin-top: 20px;
+}
+
+.tutorial-text,
+.consensus-text {
+  color: white;
+  font-size: 16px;
+}
+
+.consensus-text {
+  color: #b0bec5;
+}
+
+.container {
+  padding: 20px;
+}

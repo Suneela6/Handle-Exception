@@ -1,0 +1,19 @@
+.tutorial-container {
+  color: white;
+  padding: 20px;
+}
+
+.heading {
+  color: #007bff;
+}
+
+.sub-heading {
+  color: #007bff;
+  margin-top: 20px;
+}
+
+.tutorial-text {
+  margin-top: 10px;
+  font-size: 16px;
+  color: #b0bec5;
+}

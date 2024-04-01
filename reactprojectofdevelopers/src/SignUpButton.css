@@ -1,0 +1,15 @@
+.sign-up-button {
+  position: fixed;
+  top: 10px; /* Adjust the top position as needed */
+  right: 10px; /* Adjust the right position as needed */
+  background-color: #007bff; /* Blue color */
+  color: #fff; /* White text color */
+  padding: 10px 20px; /* Adjust padding as needed */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.sign-up-button:hover {
+  background-color: #0056b3; /* Darker blue color on hover */
+}
